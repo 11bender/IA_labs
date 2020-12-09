@@ -1,2 +1,2 @@
 # IA_labs
-IA labs, ENSIAS eMBI 2A, BENHIBA LAMIA
+IA labs (Pandas, Bokeh, Pytorch), ENSIAS eMBI 2A, BENHIBA LAMIA
